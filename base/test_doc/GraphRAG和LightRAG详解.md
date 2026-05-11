@@ -1,6 +1,5 @@
 GraphRAG与LightRAG：技术原理、应用场景与实施方案
 
-
 原链接：https://mp.weixin.qq.com/s/f8M0MWpdcH4AeauZrdxgqw
 0、面试问题
 • 🌟传统 RAG 有什么痛点？
